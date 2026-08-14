@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Josie's World!</title>
+    <link rel="stylesheet" href="Josie.css">
+</head>
+<body>
+        <h1>Hi, My name is Josie and welcome to my website!</h1>
+        <p>Here is some information about me! I'm an aspiring 
+           3D Artist, Filmmaker and Solutions Architect!
+        </p>
+        <img src="JosiePic.jpeg" alt="Oh hey its me!" width="300" height="300" class="profile-photo">
+        <img src="JosiePic2.jpeg" alt="Oh hey its me...Again!" width="300" height="300" class="profile-photo">
+
+        <h1> Some of my animations and 3D work!</h1>
+        <img src="josieanim1.gif" alt="My animation!" width="300" height="300">
+        <img src="josieanim2.gif" alt="More animation!" width="300" height="300">
+        <img src="funkybottlevasesp.png" alt="My 3D work!" width="300" height="300">
+        <img src="funkylampsp.png"  alt="More 3D work!" width="300" height="300">
+</body>
+</html>
